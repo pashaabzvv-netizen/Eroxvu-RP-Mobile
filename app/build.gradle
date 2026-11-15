@@ -10,8 +10,8 @@ android {
     defaultConfig {
         applicationId 'com.eroxvu.mobile'
         minSdk 23
-        targetSdk 35
+        targetSdk 28
         versionCode 1
-        versionName '1.0'
+        versionName '0.1-prototype'
     }
 }
